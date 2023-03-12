@@ -146,6 +146,9 @@ nav a:hover {
    font-style: normal;
    color: white;
    text-decoration: none !important;
+   text-shadow:
+      0 0 2px rgba(0, 0, 0, 1),
+      0 0 5px rgba(0, 0, 0, 1);
 }
 
 .hero p {
