@@ -268,6 +268,21 @@ nav a:hover {
    margin: 0;
 }
 
+.cta ul {
+   display: flex;
+   justify-content: space-around;
+   list-style: none;
+   margin: 0;
+   padding: 0;
+}
+
+.cta ul li *{
+   width: 50px;
+   font-size: 50px;
+   border-radius: 8px;
+   color: white;
+}
+
 /* Pied de page */
 footer {
    font-family: "mr-eaves-modern", sans-serif;
